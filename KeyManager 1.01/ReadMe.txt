@@ -4,9 +4,9 @@
 *	Created on: 13.07.2016
 *	Author: Benjamin Leonhardt
 *	
-*	KeyManager ist ein Passwort Tressor. Es hilft Passwörter sicher aufzubewahren
-*	und es können auch sichere zufall Passwörter generiert werden. 
-*	KeyManager verschlüsselt die Datenbank mit dem AES-256-Algorithmus und
+*	KeyManager ist ein Passwort Tresor. Er hilft Passwörter sicher aufzubewahren
+*	und es können auch sichere zufalls Passwörter generiert werden. 
+*	KeyManager verschlüsselt die Datenbank mit dem AES-128-Algorithmus und
 *	ist in der Lage AES mit verschiedenen Modis zu speichern. Bitte verwenden Sie 
 *	für die größt mögliche Sicherheit die empfohlenen Einstellungen.
 *
