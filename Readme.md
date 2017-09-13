@@ -88,7 +88,7 @@ entschlüsseln.
 
 Nach Wahl des empfohlenen Menüpunktes 2, muss man sich für ein Paddingverfahren entscheiden.
 
-![Paddingverfahren](./Bilder/Zufall1.PNG "Paddingverfahren")
+![Paddingverfahren](./Bilder/Zufall1.png "Paddingverfahren")
 
 AES ist eine sogennante Blockchiffre, d.h. zum Verschlüsseln werden immer 128 Bit genommen und verschlüsselt.
 Wenn am Ende der Datei nicht mehr genügend Daten vorhanden sind, um einen Block zu füllen, müssen die restlichen Bits
