@@ -168,10 +168,35 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\Readme.md" />
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="KeyManager 1.07.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Bilder\BenutzerErsterEintrag.PNG" />
+    <Image Include="..\Bilder\DatenbankDatei.PNG" />
+    <Image Include="..\Bilder\DBAnlegen.PNG" />
+    <Image Include="..\Bilder\DBPasswort.PNG" />
+    <Image Include="..\Bilder\DBPasswort1.png" />
+    <Image Include="..\Bilder\Hauptmenue.PNG" />
+    <Image Include="..\Bilder\Hauptmenue1.png" />
+    <Image Include="..\Bilder\InhaltNachErstemEintrag.PNG" />
+    <Image Include="..\Bilder\InhaltNachErstemEintrag1.png" />
+    <Image Include="..\Bilder\InhaltNachErstemEintrag2.png" />
+    <Image Include="..\Bilder\NameErsterEintrag.PNG" />
+    <Image Include="..\Bilder\Neu1.PNG" />
+    <Image Include="..\Bilder\Neu11.PNG" />
+    <Image Include="..\Bilder\Neu2.PNG" />
+    <Image Include="..\Bilder\Neu21.PNG" />
+    <Image Include="..\Bilder\Neu22.png" />
+    <Image Include="..\Bilder\PassErsterEintrag.PNG" />
+    <Image Include="..\Bilder\WeitererEintragZufallPW.PNG" />
+    <Image Include="..\Bilder\Willkommen.PNG" />
+    <Image Include="..\Bilder\Willkommen1.PNG" />
+    <Image Include="..\Bilder\Zufall.PNG" />
+    <Image Include="..\Bilder\Zufall1.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

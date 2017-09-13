@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Bilder">
+      <UniqueIdentifier>{e14693a9-f883-4b57-b4d4-3951b7aa9a1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -53,10 +56,79 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
+    <None Include="..\Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="KeyManager 1.07.rc">
       <Filter>Ressourcendateien</Filter>
     </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Bilder\Hauptmenue.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Hauptmenue1.png">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\InhaltNachErstemEintrag.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\InhaltNachErstemEintrag1.png">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\InhaltNachErstemEintrag2.png">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\NameErsterEintrag.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Neu1.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Neu2.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Neu11.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Neu21.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Neu22.png">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\PassErsterEintrag.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\WeitererEintragZufallPW.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Willkommen.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Willkommen1.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Zufall.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\Zufall1.png">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\BenutzerErsterEintrag.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\DatenbankDatei.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\DBAnlegen.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\DBPasswort.PNG">
+      <Filter>Bilder</Filter>
+    </Image>
+    <Image Include="..\Bilder\DBPasswort1.png">
+      <Filter>Bilder</Filter>
+    </Image>
   </ItemGroup>
 </Project>

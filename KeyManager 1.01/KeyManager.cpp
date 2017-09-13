@@ -1,6 +1,6 @@
 /*	
 *	Key Manager 
-*	Version 1.05
+*	Version 1.08
 *	Created on: 13.07.2016
 *	Author: Benjamin Leonhardt
 *	
